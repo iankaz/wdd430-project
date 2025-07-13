@@ -1,19 +1,19 @@
-# TaskFlow - Full-Stack Project Management Application
+# ArtisanCraft Hub - Handmade Craft Marketplace
 
 ## WDD 430: Web Full-Stack Development - Group Project
-**Student:** [Your Name]
+**Student:** Ian Kazembe
 **Course:** WDD 430 - Web Full-Stack Development
 **Semester:** Winter 2024
 
 ## Project Overview
 
-TaskFlow is a comprehensive project management web application designed to help teams collaborate efficiently, track project progress, and manage tasks in real-time. This application demonstrates full-stack development skills using modern web technologies.
+ArtisanCraft Hub is a comprehensive marketplace platform designed to connect artisans with customers who appreciate handmade crafts. This application enables artisans to showcase their work and customers to discover unique, handcrafted items.
 
 ### Purpose
-- Provide teams with intuitive project management tools
-- Enable real-time collaboration and communication
-- Track project progress and deadlines
-- Generate analytics and reports for project insights
+- Provide artisans with a platform to showcase their handmade crafts
+- Enable customers to discover and purchase unique handmade items
+- Facilitate direct communication between artisans and customers
+- Support the handmade craft community with a modern, user-friendly platform
 
 ### Technology Stack
 - **Frontend:** Next.js 14, React, TypeScript
@@ -26,18 +26,15 @@ TaskFlow is a comprehensive project management web application designed to help 
 ## Design Theme
 
 ### Color Palette
-- **Primary:** Blue (#2563eb) - Trust, professionalism, productivity
-- **Secondary:** Slate (#64748b) - Modern, clean, sophisticated
-- **Accent Colors:**
-  - Green (#16a34a) - Success, completion
-  - Orange (#ea580c) - Warning, attention
-  - Red (#dc2626) - Urgent, error
-  - Purple (#9333ea) - Creative, planning
+- **Primary:** Dark Teal (#005151) - Trust, craftsmanship, authenticity
+- **Secondary:** Warm Beige (#9F8B7AF) - Warmth, natural, handmade feel
+- **Accent:** Light Cream (#EEE5DD) - Clean, elegant, premium
+- **Background:** White (#FFFFFF) - Clean, modern, accessible
 
 ### Typography
-- **Headings:** Inter font family, bold weights
-- **Body:** Inter font family, regular weights
-- **UI Elements:** System font stack for optimal performance
+- **Headings:** EDU NSW ACT Hand (cursive) - Artistic, personal, handmade feel
+- **Body:** Roboto Variable - Readable, modern, accessible
+- **UI Elements:** Mulish - Clean, professional, consistent
 
 ### Design Principles
 - **Clean & Modern:** Minimalist design with plenty of white space
@@ -48,26 +45,26 @@ TaskFlow is a comprehensive project management web application designed to help 
 ## Features Implemented
 
 ### 1. Landing Page
-- Hero section with clear value proposition
-- Feature showcase with icons and descriptions
-- Call-to-action sections
+- Hero section showcasing handmade crafts
+- Featured artisans and their work
+- Call-to-action for both artisans and customers
 - Responsive navigation
 - Professional footer
 
-### 2. Dashboard
-- Project overview with statistics
-- Progress tracking with visual indicators
-- Upcoming deadlines and notifications
-- Quick access to recent projects
+### 2. Artisan Dashboard
+- Profile management and craft showcase
+- Inventory and order management
+- Customer messaging center
+- Sales analytics and insights
 
-### 3. Projects Page
-- Project listing with filtering and search
-- Status and priority indicators
-- Team member counts and due dates
-- Progress visualization
+### 3. Customer Browse Page
+- Craft item browsing with categories
+- Search and filter functionality
+- Artisan profiles and reviews
+- Shopping cart and checkout process
 
 ## Repository Information
-- **Repository URL:** [To be provided after GitHub setup]
+- **Repository URL:** https://github.com/iankaz/wdd430-project
 - **Project Board:** [To be provided after GitHub project setup]
 - **Live Demo:** [To be provided after deployment]
 
